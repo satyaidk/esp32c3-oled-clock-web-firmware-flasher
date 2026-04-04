@@ -74,6 +74,7 @@ All hardware and networking settings are in `include/config.h`:
 ## 📖 Further Documentation
 - **[Technical Architecture](TECHNICAL.md)**: Deep-dive into libraries, OTA, and networking logic.
 - **[Project Structure](PROJECT_STRUCTURE.md)**: Detailed mapping of every folder and file.
+- **[What is .pio?](PIO_EXPLANATION.md)**: Detailed breakdown of the PlatformIO build folder.
 - **[Step-by-Step Guide](START_GUIDE.md)**: Detailed commands for building and flashing.
 
 ---
